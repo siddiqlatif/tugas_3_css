@@ -1,0 +1,30 @@
+.paragraf-satu {
+    background-color: orange;
+    font-size: small;
+    font-family: sans-serif;
+}
+
+.paragraf-dua {
+    background-color: blue;
+    color: white;
+    font-size: small;
+    font-family: "Times New Roman";
+}
+
+.paragraf-tiga {
+    background-color: white;
+    font-size: 20px;
+    font-family: monospace;
+}
+
+.paragraf-empat {
+    background-color: gray;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: serif;
+}
+
+div {
+    border: 1px solid;
+    padding: 0;
+}
